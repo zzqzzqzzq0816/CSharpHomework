@@ -1,0 +1,9 @@
+E:\vscode\Calculators\Calculators\bin\Debug\Calculators.exe.config
+E:\vscode\Calculators\Calculators\bin\Debug\Calculators.exe
+E:\vscode\Calculators\Calculators\bin\Debug\Calculators.pdb
+E:\vscode\Calculators\Calculators\obj\Debug\Calculators.csprojAssemblyReference.cache
+E:\vscode\Calculators\Calculators\obj\Debug\Calculators.Operate.resources
+E:\vscode\Calculators\Calculators\obj\Debug\Calculators.Properties.Resources.resources
+E:\vscode\Calculators\Calculators\obj\Debug\Calculators.csproj.GenerateResource.cache
+E:\vscode\Calculators\Calculators\obj\Debug\Calculators.exe
+E:\vscode\Calculators\Calculators\obj\Debug\Calculators.pdb

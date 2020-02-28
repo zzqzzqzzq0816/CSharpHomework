@@ -1,0 +1,6 @@
+E:\vscode\PrimeNumbersBelow100\PrimeNumbersBelow100\bin\Debug\PrimeNumbersBelow100.exe.config
+E:\vscode\PrimeNumbersBelow100\PrimeNumbersBelow100\bin\Debug\PrimeNumbersBelow100.exe
+E:\vscode\PrimeNumbersBelow100\PrimeNumbersBelow100\bin\Debug\PrimeNumbersBelow100.pdb
+E:\vscode\PrimeNumbersBelow100\PrimeNumbersBelow100\obj\Debug\PrimeNumbersBelow100.csprojAssemblyReference.cache
+E:\vscode\PrimeNumbersBelow100\PrimeNumbersBelow100\obj\Debug\PrimeNumbersBelow100.exe
+E:\vscode\PrimeNumbersBelow100\PrimeNumbersBelow100\obj\Debug\PrimeNumbersBelow100.pdb

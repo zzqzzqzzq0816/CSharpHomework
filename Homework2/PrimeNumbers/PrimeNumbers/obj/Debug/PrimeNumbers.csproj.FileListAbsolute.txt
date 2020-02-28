@@ -1,0 +1,6 @@
+E:\vscode\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+E:\vscode\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+E:\vscode\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+E:\vscode\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csprojAssemblyReference.cache
+E:\vscode\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+E:\vscode\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb

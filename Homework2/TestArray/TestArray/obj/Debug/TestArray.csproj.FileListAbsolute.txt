@@ -1,0 +1,5 @@
+E:\vscode\TestArray\TestArray\bin\Debug\TestArray.exe.config
+E:\vscode\TestArray\TestArray\bin\Debug\TestArray.exe
+E:\vscode\TestArray\TestArray\bin\Debug\TestArray.pdb
+E:\vscode\TestArray\TestArray\obj\Debug\TestArray.exe
+E:\vscode\TestArray\TestArray\obj\Debug\TestArray.pdb

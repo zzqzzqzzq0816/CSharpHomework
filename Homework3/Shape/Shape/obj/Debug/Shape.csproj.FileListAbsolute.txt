@@ -1,0 +1,6 @@
+E:\vscode\Shape\Shape\obj\Debug\Shape.csprojAssemblyReference.cache
+E:\vscode\Shape\Shape\bin\Debug\Shape.exe.config
+E:\vscode\Shape\Shape\bin\Debug\Shape.exe
+E:\vscode\Shape\Shape\bin\Debug\Shape.pdb
+E:\vscode\Shape\Shape\obj\Debug\Shape.exe
+E:\vscode\Shape\Shape\obj\Debug\Shape.pdb

@@ -1,0 +1,6 @@
+E:\vscode\TestAction\TestAction\bin\Debug\TestAction.exe.config
+E:\vscode\TestAction\TestAction\bin\Debug\TestAction.exe
+E:\vscode\TestAction\TestAction\bin\Debug\TestAction.pdb
+E:\vscode\TestAction\TestAction\obj\Debug\TestAction.csprojAssemblyReference.cache
+E:\vscode\TestAction\TestAction\obj\Debug\TestAction.exe
+E:\vscode\TestAction\TestAction\obj\Debug\TestAction.pdb

@@ -1,0 +1,6 @@
+E:\vscode\Clock\Clock\bin\Debug\Clock.exe.config
+E:\vscode\Clock\Clock\bin\Debug\Clock.exe
+E:\vscode\Clock\Clock\bin\Debug\Clock.pdb
+E:\vscode\Clock\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+E:\vscode\Clock\Clock\obj\Debug\Clock.exe
+E:\vscode\Clock\Clock\obj\Debug\Clock.pdb

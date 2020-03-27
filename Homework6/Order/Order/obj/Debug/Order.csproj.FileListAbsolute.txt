@@ -1,0 +1,6 @@
+E:\vscode\Order\Order\bin\Debug\Order.exe.config
+E:\vscode\Order\Order\bin\Debug\Order.exe
+E:\vscode\Order\Order\bin\Debug\Order.pdb
+E:\vscode\Order\Order\obj\Debug\Order.csprojAssemblyReference.cache
+E:\vscode\Order\Order\obj\Debug\Order.exe
+E:\vscode\Order\Order\obj\Debug\Order.pdb

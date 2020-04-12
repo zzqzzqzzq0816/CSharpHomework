@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <Ordernum>1</Ordernum>
+    <client>
+      <ClientName>zzq</ClientName>
+      <ClientPlace>nanchang</ClientPlace>
+    </client>
+    <Sum>180</Sum>
+    <Goodslist>
+      <OrderItem>
+        <goods>
+          <GoodsName>卫龙</GoodsName>
+        </goods>
+        <GoodsNum>10</GoodsNum>
+        <ItemPrice>30</ItemPrice>
+      </OrderItem>
+      <OrderItem>
+        <goods>
+          <GoodsName>面包</GoodsName>
+        </goods>
+        <GoodsNum>30</GoodsNum>
+        <ItemPrice>150</ItemPrice>
+      </OrderItem>
+    </Goodslist>
+    <DT>2020-03-27T16:43:41.6864103+08:00</DT>
+  </Order>
+</ArrayOfOrder>

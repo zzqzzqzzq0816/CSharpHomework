@@ -1,0 +1,6 @@
+E:\vscode\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe.config
+E:\vscode\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.exe
+E:\vscode\SimpleCrawler\SimpleCrawler\bin\Debug\SimpleCrawler.pdb
+E:\vscode\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.csprojAssemblyReference.cache
+E:\vscode\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.exe
+E:\vscode\SimpleCrawler\SimpleCrawler\obj\Debug\SimpleCrawler.pdb

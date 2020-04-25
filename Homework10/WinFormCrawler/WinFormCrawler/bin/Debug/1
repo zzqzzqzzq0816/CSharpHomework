@@ -1,0 +1,841 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="origin" />
+    
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>腾飞（Jesse) - 博客园</title>
+    
+    <link rel="stylesheet" href="/css/blog-common.min.css?v=-oFz8B4m7JhHaZzdTkzPza2oLZNDRR8obnCz6w7OHbU" />
+    <link id="MainCss" rel="stylesheet" href="/skins/simplememory/bundle-simplememory.min.css?v=OL4qeo1LNGlN1rKIhv5UctANvt0M6Nx6kLzr_ffx3Xk" />
+    <link type="text/css" rel="stylesheet" href="https://www.cnblogs.com/jesse2013/custom.css?v=DB/sw3iTGnXC/2h0J9yhKcfI5&#x2B;k=" />
+    <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/SimpleMemory/bundle-SimpleMemory-mobile.min.css" />
+    
+    <link type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/jesse2013/rss" />
+    <link type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/jesse2013/rsd.xml" />
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/jesse2013/wlwmanifest.xml" />
+    <script src="https://common.cnblogs.com/scripts/jquery-2.2.0.min.js"></script>
+    <script src="/js/blog-common.min.js?v=z6JkvKQ7L_bGD-nwJExYzsoFf5qnluqZJru6RsfoZuM"></script>
+    <script>
+        var currentBlogId = 159331;
+        var currentBlogApp = 'jesse2013';
+        var cb_enable_mathjax = false;
+        var isLogined = false;
+        var skinName = 'SimpleMemory';
+    </script>
+    
+    
+    
+</head>
+<body>
+    <a name="top"></a>
+    <div id="page_begin_html">
+        <link rel="stylesheet" type="text/css" href="https://files.cnblogs.com/jesse2013/mystle.css?v=10132013.10">
+    </div>
+    
+<!--done-->
+<div id="home">
+<div id="header">
+	<div id="blogTitle">
+        <a id="lnkBlogLogo" href="https://www.cnblogs.com/jesse2013/"><img id="blogLogo" src="/skins/custom/images/logo.gif" alt="返回主页" /></a>		
+		
+<!--done-->
+<h1><a id="Header1_HeaderTitle" class="headermaintitle HeaderMainTitle" href="https://www.cnblogs.com/jesse2013/">腾飞（Jesse）</a>
+</h1>
+<h2>
+
+</h2>
+
+
+
+
+		
+	</div><!--end: blogTitle 博客的标题和副标题 -->
+	<div id="navigator">
+		
+<ul id="navList">
+<li>
+</li>
+<li>
+<a id="blog_nav_myhome" class="menu" href="https://www.cnblogs.com/jesse2013/">
+首页</a>
+</li>
+<li>
+
+
+</li>
+<li>
+<a id="blog_nav_contact" class="menu" href="https://msg.cnblogs.com/send/%E8%85%BE%E9%A3%9E%EF%BC%88Jesse%29">
+联系</a></li>
+<li>
+<a id="blog_nav_rss" class="menu" href="https://www.cnblogs.com/jesse2013/rss/">
+订阅</a>
+<!--<partial name="./Shared/_XmlLink.cshtml" model="Model" /></li>--></li>
+<li>
+<a id="blog_nav_admin" class="menu" href="https://i.cnblogs.com/">
+管理</a>
+</li>
+</ul>
+
+
+		<div class="blogStats">
+			
+			<span id="stats_post_count">随笔 - 
+46&nbsp; </span>
+<span id="stats_article_count">文章 - 
+0&nbsp; </span>
+<span id="stats-comment_count">评论 - 
+3661</span>
+
+			
+		</div><!--end: blogStats -->
+	</div><!--end: navigator 博客导航栏 -->
+</div><!--end: header 头部 -->
+
+<div id="main">
+	<div id="mainContent">
+	<div class="forFlow">
+		
+<!--done-->
+
+
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2020/02/11.html">2020年2月11日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/medium-team-agile-scrum-best-practice.html">
+    中小企业团队敏捷产品开发流程最佳实践
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：近期因为疫情的影响，不少互联网公司开始尝试远程工作。也出不了少如何做好远程工作的方法，我认为不管是场地办公还是远程办公都依赖于原来的产品开发流程。 我曾经遵循CMMI5的流程管理过15人左右的跨国/语言/文化团队，也遵循敏捷Scrum管理过9人的小团队，还针对一个从4人发展到近30人的团队尝试过各种            <a href="https://www.cnblogs.com/jesse2013/p/medium-team-agile-scrum-best-practice.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2020-02-11 10:25 腾飞（Jesse) 阅读 (2693) 评论 (13)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12289020" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2018/03/29.html">2018年3月29日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/polly-docs.html">
+    ASP VNext 开源服务容错处理库Polly使用文档
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：在进入SOA之后，我们的代码从本地方法调用变成了跨机器的通信。任何一个新技术的引入都会为我们解决特定的问题，都会带来一些新的问题。比如网络故障、依赖服务崩溃、超时、服务器内存与CPU等其它问题。正是因为这些问题无法避免，所以我们在进行系统设计、特别是进行分布式系统设计的时候以“Design For             <a href="https://www.cnblogs.com/jesse2013/p/polly-docs.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-03-29 09:16 腾飞（Jesse) 阅读 (3713) 评论 (10)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=8647581" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2018/03/19.html">2018年3月19日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/net-core-apigateway-ocelot-docs.html">
+    .NET Core开源API网关 – Ocelot中文文档
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：Ocelot是一个用.NET Core实现并且开源的API网关，它功能强大，包括了：路由、请求聚合、服务发现、认证、鉴权、限流熔断、并内置了负载均衡器与Service Fabric、Butterfly Tracing集成。这些功能只都只需要简单的配置即可完成，下面我们会对这些功能的配置一一进行说明。            <a href="https://www.cnblogs.com/jesse2013/p/net-core-apigateway-ocelot-docs.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-03-19 09:21 腾飞（Jesse) 阅读 (34161) 评论 (50)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=8599419" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2018/03/07.html">2018年3月7日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/oidc-in-aspnetcore-with-identity-server.html">
+    Open ID Connect(OIDC)在 ASP.NET Core中的应用
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：我们在《ASP.NET Core项目实战的课程》第一章里面给identity server4做了一个全面的介绍和示例的练习 ，这篇文章是根据大家对OIDC遇到的一些常见问题整理得出。 本文将涉及到以下几个话题： 什么是OpenId Connect (OIDC) OIDC 对oAuth进行了哪些扩展？            <a href="https://www.cnblogs.com/jesse2013/p/oidc-in-aspnetcore-with-identity-server.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2018-03-07 09:45 腾飞（Jesse) 阅读 (4182) 评论 (2)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=8467850" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2017/12/29.html">2017年12月29日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/the-age-of-netcore.html">
+    ASP.NET Core 系列视频完结，新项目实战课程发布。
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：今天把MVC的章节完成了，给大家从头到尾做了一个登录注册的示例，带前后端Model验证，算是完整的示例。同时借助于eShopOnContainers的示例也做了一个DBContextSeed的包装器来初始化ApplicationDbContext，这种方式可以灵活借用到其它项目里面去。 到这里，我前            <a href="https://www.cnblogs.com/jesse2013/p/the-age-of-netcore.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2017-12-29 09:06 腾飞（Jesse) 阅读 (12386) 评论 (4)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=8142698" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2017/11/20.html">2017年11月20日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/aspnetcore-videos.html">
+    这应该是目前最快速有效的ASP.NET Core学习方式（视频）
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：ASP.NET Core都2.0了，它的普及还是不太好。作为一个.NET的老司机，我觉得.NET Core给我带来了很多的乐趣。Linux， Docker， CloudNative，MicroService，DevOps这些都能跟它很完美的结合，再加ASP.NET Core轻量、模块化、以及现代化的            <a href="https://www.cnblogs.com/jesse2013/p/aspnetcore-videos.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2017-11-20 08:45 腾飞（Jesse) 阅读 (31952) 评论 (38)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=7864833" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2017/11/17.html">2017年11月17日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/learn-aspnetcore.html">
+    极简版ASP.NET Core学习路径及教程
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：绝承认这是一个七天速成教程，即使有这个效果，我也不愿意接受这个名字。嗯。 视频系列已出：&#160;http://www.cnblogs.com/jesse2013/p/aspnetcore-videos.html 这个路径分为两块： 有了ASP.NET以及C#的知识以及项目经验，我们几乎可以不再需要了解任何            <a href="https://www.cnblogs.com/jesse2013/p/learn-aspnetcore.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2017-11-17 09:48 腾飞（Jesse) 阅读 (15442) 评论 (25)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=7850075" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2017/11/16.html">2017年11月16日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/di-in-aspnetcore.html">
+    全面理解 ASP.NET Core 依赖注入
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：DI在.NET Core里面被提到了一个非常重要的位置， 这篇文章主要再给大家普及一下关于依赖注入的概念，身边有工作六七年的同事还个东西搞不清楚。另外再介绍一下.NET Core的DI实现以及对实例生命周期的管理（这个是经常面试会问到的问题）。最后再给大家简单介绍一下在控制台以及Mvc下如何使用DI            <a href="https://www.cnblogs.com/jesse2013/p/di-in-aspnetcore.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2017-11-16 09:00 腾飞（Jesse) 阅读 (51877) 评论 (38)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=7842641" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2017/11/15.html">2017年11月15日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/go-aspnetcore.html">
+    向ASP.NET Core迁移
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：有人说.NET在国内的氛围越来越不行了，看博客园文章的浏览量也起不来。是不是要转Java呢？&#160;没有必要扯起语言的纷争，Java也好C#都只是语言是工具，各有各的使用场景。以前是C#非开源以及不能在Linux上使用，没有被互联网公司考虑，但它仍然有它的用途。这几年国内互联网公司进入蓬勃发展时期，所有才            <a href="https://www.cnblogs.com/jesse2013/p/go-aspnetcore.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2017-11-15 09:07 腾飞（Jesse) 阅读 (5332) 评论 (6)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=7831841" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2017/11/14.html">2017年11月14日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/integrate-with-lagacy-auth.html">
+    ASP.NET Core集成现有系统认证
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：我们现在大多数转向ASP.NET Core来使用开发的团队，应该都不是从0开始搭建系统，而是老的业务系统已经在运行，ASP.NET Core用来开发新模块。那么解决用户认证的问题，成为我们的第一个拦路虎。本文将给大家简单阐述一下认证与授权的基本概念，以及基于ASP.NET Core&#160;中间件实现的认证            <a href="https://www.cnblogs.com/jesse2013/p/integrate-with-lagacy-auth.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2017-11-14 08:55 腾飞（Jesse) 阅读 (5185) 评论 (12)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=7830726" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2017/08/17.html">2017年8月17日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/gitlab-ci-netcoreapi-on-docker.html">
+    Gitlab CI 自动部署 asp.net core web api 到Docker容器
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：为什么要写这个？ 在一个系统长大的过程中会经历不断重构升级来满足商业的需求，而一个严谨的商业系统需要高效、稳定、可扩展，有时候还不得不考虑成本的问题。我希望能找到比较完整的开源解决方案来解决持续集成、监控报警、以及扩容和高可用性的问题。是学习和探索的过程分享给大家，也欢迎同行的人交流。 先来一个三步            <a href="https://www.cnblogs.com/jesse2013/p/gitlab-ci-netcoreapi-on-docker.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2017-08-17 08:42 腾飞（Jesse) 阅读 (2936) 评论 (7)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=7265923" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2017/06/08.html">2017年6月8日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/start-to-develop-with-xamarin.html">
+    是时候开始用C#快速开发移动应用了
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：从2015年接触Xamarin到至今已经2个年头，我对Xamarin的技能没有长进多少，但它却已经足够成熟到在跨平台移动开发工具中占有一席之地。在扫了一些资料之后，突然发现国外有很多移动端的应用已经是用Xamarin开发，Telerik还有专门的团队来开发Xamarin UI 库，这再次激发起了我的            <a href="https://www.cnblogs.com/jesse2013/p/start-to-develop-with-xamarin.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2017-06-08 08:50 腾飞（Jesse) 阅读 (24232) 评论 (94)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=6953786" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2017/03/26.html">2017年3月26日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/6623857.html">
+    过去一年踩下的坑，价值好几百万
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：第一个关键词：复盘 在商业战略上复盘有两个好处。第一个是找到亮点，对于可行的一些试点项目投入更多资源扩大规模。第二个是我们犯过什么错，犯过的错误能不能写下来不再犯。今天就来盘点一下去年我们范下的那些严重错误： 1. 低估问题的难度 如果去看上一篇文章大概还可以看到我对于能从一堆乱麻中找到所有问题，排            <a href="https://www.cnblogs.com/jesse2013/p/6623857.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2017-03-26 20:19 腾飞（Jesse) 阅读 (4484) 评论 (11)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=6623857" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2016/11/10.html">2016年11月10日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/code-for-the-world.html">
+    上一家公司倒闭，为什么我又来了创业公司？
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：一面冰川，一面火山。你在资本的寒冬里繁华落尽，而我在市场的浪潮下激流永进。前不久朋友圈还不断地被冠以 “去年拿到A轮的创业公司现在快倒闭完了” 的文章刷屏，另一面，最近摩拜单车一轮又一轮的融资让人不禁感叹：“这还是不是资本寒冬了！” 获得融资的新闻时常还有，但是，那些怀着改变世界的心愿喊着”我要去创            <a href="https://www.cnblogs.com/jesse2013/p/code-for-the-world.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2016-11-10 09:59 腾飞（Jesse) 阅读 (13082) 评论 (64)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=6049759" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2016/06/14.html">2016年6月14日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/magic-of-unittesting.html">
+    前后端分离开发模式下后端质量的保证 —— 单元测试
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：概述 在今天， 前后端分离已经是首选的一个开发模式。这对于后端团队来说其实是一个好消息，减轻任务并且更专注。在测试方面，就更加依赖于单元测试对于API以及后端业务逻辑的较验。当然单元测试并非在前后端分离流行之后才有，它很早就存在，只是鲜有人重视且真的能够用好它。而在前后端分离开发模式下，特别是两者交            <a href="https://www.cnblogs.com/jesse2013/p/magic-of-unittesting.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2016-06-14 08:56 腾飞（Jesse) 阅读 (20489) 评论 (24)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=3915683" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2016/05/10.html">2016年5月10日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/things-architect-must-know.html">
+    关于架构优化和设计，架构师必须知道的事情
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：概述 这篇译文最早发布在infoQ下面的一个微信公众号：“聊聊架构”上，想着我在园子几乎沉寂了接近两年之久，于是借机复活。哈哈哈，这是一篇关于架构的译文，会介绍比较多的一些工具、以及框架，给对架构感兴趣的同学一个知识扩充。 近几年来随着互联网的飞速发展，新的架构实践方式不断涌现，但是有一件事情是永恒            <a href="https://www.cnblogs.com/jesse2013/p/things-architect-must-know.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2016-05-10 09:29 腾飞（Jesse) 阅读 (18090) 评论 (10)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=5475176" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2015/07/21.html">2015年7月21日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/4648793.html">
+    我想和大家说说心里话
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：对于一个接近一年都没有更新博客的人来说，突然跳出来不知道会不会吓到大家？所以我决定用一个真(zhuang)诚(bi)的标题，希望能给大伙压压惊。顺便怒吼一声，我胡汉三又回来了！！！假装自己人气依在，此番回来一定要干出一番事业啊！！ 写这篇博客主要是想和大...            <a href="https://www.cnblogs.com/jesse2013/p/4648793.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2015-07-21 08:36 腾飞（Jesse) 阅读 (16599) 评论 (117)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=4648793" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2014/11/14.html">2014年11月14日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/how-xamarin-works.html">
+    C#移动跨平台开发（2）Xamarin移动跨平台解决方案是如何工作的？
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：概述 上一篇 C#移动跨平台开发（1）环境准备发布之后不久，无独有偶，微软宣布了开放.NET框架源代码并且会为Windows、Mac和Linux开发一个核心运行时（Core CLR），这也是开源的！IT媒体网站纷纷转载，博客园的C#开发者们热泪盈眶（泥煤都等这一天好久了！） 与此同时VS2015...            <a href="https://www.cnblogs.com/jesse2013/p/how-xamarin-works.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2014-11-14 13:02 腾飞（Jesse) 阅读 (10657) 评论 (22)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=4096960" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2014/11/09.html">2014年11月9日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/4084723.html">
+    C#移动跨平台开发（1）环境准备
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：C#依托于mono平台可以实现Unix平台服务器端开发已经不是什么新鲜事了，而Xarmain公司（初始成员大多来自原Mono、MonoTouch、Mono For Android成员)继续将C#的先进性带到了移动平台 —— 这也不是新鲜事了！但是国内的学习资料却很少，倒是有培训班已经看准了这个赚钱的            <a href="https://www.cnblogs.com/jesse2013/p/4084723.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2014-11-09 16:56 腾飞（Jesse) 阅读 (12063) 评论 (55)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=4084723" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+		
+
+
+<div class="day">
+    <div class="dayTitle">
+        <a href="https://www.cnblogs.com/jesse2013/archive/2014/10/09.html">2014年10月9日</a>
+    </div>
+
+        <div class="postTitle">
+            
+
+<a class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/ddd-repository.html">
+    初探领域驱动设计（2）Repository在DDD中的应用
+</a>
+
+        </div>
+        <div class="postCon">
+
+    <div class="c_b_p_desc">
+摘要：概述 上一篇我们算是粗略的介绍了一下DDD，我们提到了实体、值类型和领域服务，也稍微讲到了DDD中的分层结构。但这只能算是一个很简单的介绍，并且我们在上篇的末尾还留下了一些问题，其中大家讨论比较多的，也是我本人之前有一些疑问的地方就是Repository。我之前觉得IRepository和三层里面...            <a href="https://www.cnblogs.com/jesse2013/p/ddd-repository.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>
+</div>
+        <div class="clear"></div>
+        <div class="postDesc">
+
+posted @ 2014-10-09 08:55 腾飞（Jesse) 阅读 (11897) 评论 (32)
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=3959225" rel="nofollow">
+    编辑
+</a>
+</div>
+        <div class="clear"></div>
+</div>
+
+
+
+<div class="topicListFooter">
+    <div id="nav_next_page">
+        
+    <a href="https://www.cnblogs.com/jesse2013/default.html?page=2">
+        下一页
+    </a>
+
+    </div>    
+</div>
+
+
+
+
+
+
+
+
+	</div><!--end: forFlow -->
+	</div><!--end: mainContent 主体内容容器-->
+
+	<div id="sideBar">
+		<div id="sideBarMain">
+			
+<div id="sidebar_news" class="newsItem">
+            <script>loadBlogNews();</script>
+</div>
+
+			<div id="blog-calendar" style="display:none"></div><script>loadBlogDefaultCalendar();</script>
+			
+			<div id="leftcontentcontainer">
+				<div id="blog-sidecolumn"></div>
+                    <script>loadBlogSideColumn();</script>
+			</div>
+			
+		</div><!--end: sideBarMain -->
+	</div><!--end: sideBar 侧边栏容器 -->
+	<div class="clear"></div>
+	</div><!--end: main -->
+	<div class="clear"></div>
+	<div id="footer">
+		<!--done-->
+Copyright &copy; 2020 腾飞（Jesse)
+<br /><span id="poweredby">Powered by .NET Core on Kubernetes</span>
+
+
+
+	</div><!--end: footer -->
+</div><!--end: home 自定义的最大容器 -->
+
+
+    
+</body>
+</html>

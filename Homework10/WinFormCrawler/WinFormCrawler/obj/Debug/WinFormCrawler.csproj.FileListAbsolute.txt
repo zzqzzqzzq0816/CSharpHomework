@@ -1,0 +1,8 @@
+D:\GoogleDownload\CSharpHomework-master\CSharpHomework-master\Week 10\爬虫 - Winform（多线程）\WinFormCrawler\bin\Debug\Crawler - Winform.exe.config
+D:\GoogleDownload\CSharpHomework-master\CSharpHomework-master\Week 10\爬虫 - Winform（多线程）\WinFormCrawler\bin\Debug\Crawler - Winform.exe
+D:\GoogleDownload\CSharpHomework-master\CSharpHomework-master\Week 10\爬虫 - Winform（多线程）\WinFormCrawler\bin\Debug\Crawler - Winform.pdb
+D:\GoogleDownload\CSharpHomework-master\CSharpHomework-master\Week 10\爬虫 - Winform（多线程）\WinFormCrawler\obj\Debug\WinFormCrawler.Form1.resources
+D:\GoogleDownload\CSharpHomework-master\CSharpHomework-master\Week 10\爬虫 - Winform（多线程）\WinFormCrawler\obj\Debug\Crawler___Winform.Properties.Resources.resources
+D:\GoogleDownload\CSharpHomework-master\CSharpHomework-master\Week 10\爬虫 - Winform（多线程）\WinFormCrawler\obj\Debug\WinFormCrawler.csproj.GenerateResource.cache
+D:\GoogleDownload\CSharpHomework-master\CSharpHomework-master\Week 10\爬虫 - Winform（多线程）\WinFormCrawler\obj\Debug\Crawler - Winform.exe
+D:\GoogleDownload\CSharpHomework-master\CSharpHomework-master\Week 10\爬虫 - Winform（多线程）\WinFormCrawler\obj\Debug\Crawler - Winform.pdb

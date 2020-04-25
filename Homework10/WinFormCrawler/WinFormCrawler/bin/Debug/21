@@ -1,0 +1,657 @@
+﻿<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="never" />
+    <meta property="og:description" content="近期因为疫情的影响，不少互联网公司开始尝试远程工作。也出不了少如何做好远程工作的方法，我认为不管是场地办公还是远程办公都依赖于原来的产品开发流程。 我曾经遵循CMMI5的流程管理过15人左右的跨国/语" />
+    <meta http-equiv="Cache-Control" content="no-transform" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>中小企业团队敏捷产品开发流程最佳实践 - 腾飞（Jesse) - 博客园</title>
+    
+    <link rel="stylesheet" href="/css/blog-common.min.css?v=-oFz8B4m7JhHaZzdTkzPza2oLZNDRR8obnCz6w7OHbU" />
+    <link id="MainCss" rel="stylesheet" href="/skins/simplememory/bundle-simplememory.min.css?v=OL4qeo1LNGlN1rKIhv5UctANvt0M6Nx6kLzr_ffx3Xk" />
+    <link type="text/css" rel="stylesheet" href="https://www.cnblogs.com/jesse2013/custom.css?v=DB/sw3iTGnXC/2h0J9yhKcfI5&#x2B;k=" />
+    <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/SimpleMemory/bundle-SimpleMemory-mobile.min.css" />
+    
+    <link type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/jesse2013/rss" />
+    <link type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/jesse2013/rsd.xml" />
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/jesse2013/wlwmanifest.xml" />
+    <script src="https://common.cnblogs.com/scripts/jquery-2.2.0.min.js"></script>
+    <script src="/js/blog-common.min.js?v=z6JkvKQ7L_bGD-nwJExYzsoFf5qnluqZJru6RsfoZuM"></script>
+    <script>
+        var currentBlogId = 159331;
+        var currentBlogApp = 'jesse2013';
+        var cb_enable_mathjax = false;
+        var isLogined = false;
+        var skinName = 'SimpleMemory';
+    </script>
+    
+    
+    
+</head>
+<body>
+    <a name="top"></a>
+    <div id="page_begin_html">
+        <link rel="stylesheet" type="text/css" href="https://files.cnblogs.com/jesse2013/mystle.css?v=10132013.10">
+    </div>
+    
+<!--done-->
+<div id="home">
+<div id="header">
+	<div id="blogTitle">
+        <a id="lnkBlogLogo" href="https://www.cnblogs.com/jesse2013/"><img id="blogLogo" src="/skins/custom/images/logo.gif" alt="返回主页" /></a>		
+		
+<!--done-->
+<h1><a id="Header1_HeaderTitle" class="headermaintitle HeaderMainTitle" href="https://www.cnblogs.com/jesse2013/">腾飞（Jesse）</a>
+</h1>
+<h2>
+
+</h2>
+
+
+
+
+		
+	</div><!--end: blogTitle 博客的标题和副标题 -->
+	<div id="navigator">
+		
+<ul id="navList">
+<li>
+</li>
+<li>
+<a id="blog_nav_myhome" class="menu" href="https://www.cnblogs.com/jesse2013/">
+首页</a>
+</li>
+<li>
+
+
+</li>
+<li>
+<a id="blog_nav_contact" class="menu" href="https://msg.cnblogs.com/send/%E8%85%BE%E9%A3%9E%EF%BC%88Jesse%29">
+联系</a></li>
+<li>
+<a id="blog_nav_rss" class="menu" href="https://www.cnblogs.com/jesse2013/rss/">
+订阅</a>
+<!--<partial name="./Shared/_XmlLink.cshtml" model="Model" /></li>--></li>
+<li>
+<a id="blog_nav_admin" class="menu" href="https://i.cnblogs.com/">
+管理</a>
+</li>
+</ul>
+
+
+		<div class="blogStats">
+			
+			<span id="stats_post_count">随笔 - 
+46&nbsp; </span>
+<span id="stats_article_count">文章 - 
+0&nbsp; </span>
+<span id="stats-comment_count">评论 - 
+3661</span>
+
+			
+		</div><!--end: blogStats -->
+	</div><!--end: navigator 博客导航栏 -->
+</div><!--end: header 头部 -->
+
+<div id="main">
+	<div id="mainContent">
+	<div class="forFlow">
+		<div id="post_detail">
+    <!--done-->
+    <div id="topics">
+        <div class="post">
+            <h1 class = "postTitle">
+                
+<a id="cb_post_title_url" class="postTitle2" href="https://www.cnblogs.com/jesse2013/p/medium-team-agile-scrum-best-practice.html">中小企业团队敏捷产品开发流程最佳实践</a>
+
+            </h1>
+            <div class="clear"></div>
+            <div class="postBody">
+                
+<div id="cnblogs_post_body" class="blogpost-body ">
+    <p>近期因为疫情的影响，不少互联网公司开始尝试远程工作。也出不了少如何做好远程工作的方法，我认为不管是场地办公还是远程办公都依赖于原来的产品开发流程。</p>
+<p>我曾经遵循CMMI5的流程管理过15人左右的跨国/语言/文化团队，也遵循敏捷Scrum管理过9人的小团队，还针对一个从4人发展到近30人的团队尝试过各种方式的项目管理方法，这其中有2C和2B的产品，也有平台/生态型产品。&nbsp;最后在自己创立公司的5人小团队（场地和远程办公融合方式）中摸索出了我认为最适合中小企业产品开发流程与管理方法。</p>
+<p>&nbsp;今天我们聊聊产品开发流程与管理。我们通过对Scrum的改造，利用Gitlab的issue对需求、开发和测试进行可视化管理。应该来说能够适应绝大多数的中小企业和团队，当然再好的流程也会因不同的人来落地执行而产生不一样的效果。</p>
+<h1>定义产品&nbsp;</h1>
+<p>首先我们要确定开发的是产品，而非项目。产品和项目的区别是什么？与此对应的另外一个问题是产品经理和项目经理的区别是什么？&nbsp;后面的问题我们不在此篇中讨论，产品和项目的区别主要在两方面体现：生存周期和目标。</p>
+<p>&nbsp;项目的生存周期比较短从启动、策划、执行、监控到收尾。验收交付给用户之后项目就结束了。而产品不存在结束的说法，因为产品是不断更新的，直到被新产品替代，生存周期才结束。&nbsp;</p>
+<p>&nbsp;项目的目标是在规定的时间内，利用有限的资源，高质量的完成某个特定用户的需求。而产品更多是为了满足一些用户的通过用需求。</p>
+<p>&nbsp;当然项目和产品之前存在很多的关联，如果产品按迭代开发，每个迭代有时候像极了一个项目。项目和产品有时候是协同发展的。</p>
+<h1>中小公司团队</h1>
+<p>我们这个流程更适合小公司和团队，但是中型的公司如果资源比较紧张的时候也适用。小团队的特点通常是可能没有专职的UI设计（或者比较少）、没有专职测试人员 （或者比较少）。没有那么规范的管理流程，有人身兼多职。所有该流程的目标是希望追求高效的团队产出同时兼顾产品的长期发展。</p>
+<p>敏捷开发流程对产品开发的影响</p>
+<p>产品开发成什么样是由产品经理设计的，能不能满足用户的需求，会不会给公司带来利润很大程度上都依赖于产品经理。俗话说把所有的宝都押在一个人身上是很危险的，因为产品本身需要满足的是一群人的需求，以及产品经理对需求的挖掘和理解各有差异，<strong>敏捷开发很大的一个出发点是通过延迟设计和实现来规避这个风险。</strong></p>
+<p>MVP（最小可行性产品）的思路来自于《精益创业&nbsp;》&nbsp;</p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazkTPRLX2c17GVw9hsHJrYkREqp8ABGehlsnKsq7CLJn62Wia7coljapg/640?wx_fmt=other&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.7078125" data-src="https://mmbiz.qpic.cn/mmbiz/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazkTPRLX2c17GVw9hsHJrYkREqp8ABGehlsnKsq7CLJn62Wia7coljapg/640?wx_fmt=other" data-type="other" data-w="640" data-fail="0"></p>
+<p>敏捷开发中&ldquo;迭代iteration"的思路跟MVP的思路基本一致，我们在进行敏捷开发中很重要的环节不是你的流程执行的对不对，而是迭代需求有没有拆分好，否则不可能在用户那边过关。&nbsp;这个重点环节需要Master和PO(Product Owner)&nbsp;以及技术Leader一起来完成。</p>
+<p>不能按开发任务的整体性来安排迭代任务，这里的标准是：<strong>每一个迭代完成之后应该交付给用户完整可用的产品。</strong>对于2B，特别是大B用户类的产品，迭代周期可以长一些，多预留一些测试时间，待产品足够稳定之后再上线。</p>
+<h2>UserStory需求优先级评估</h2>
+<p>一个UserStory是一个完整的用户需求，结合自身团队的情况以及需求的难易程度可以在每次迭代计划会议的时候来确定下个迭代要开发哪些UserStory。这其中团队需要对如何挑选UserStory有一个明确的定义。</p>
+<p>我们采用 KANO模型法（基本型需求&gt;&nbsp;期望型需求&gt;兴奋型需求 ) +&nbsp;满足核心业务的投入产出比最大的需求优先（ROI最大化）&nbsp;组合评估。</p>
+<p>在KANO的基础上优先处理基本需求（也可以称之为核需求），在核心需求依然很多需要排序的时候采用核心需求投入产出比最大化原则进行排序 。</p>
+<p>P0-N，P1-N, P2-N&nbsp;</p>
+<ul class="list-paddingleft-2">
+<li>
+<p>P0为基本核心需求</p>
+</li>
+<li>
+<p>P1为期望型需求</p>
+</li>
+<li>
+<p>P2为兴奋型需求</p>
+</li>
+</ul>
+<p>N为ROI评估，为1到5数字，5的ROI最大，得此组合6永远优先做P0-5的需求。ROI的评估大抵是以研发投入为成本，用户价值和公司价值作为回报来评估。</p>
+<p>希望各位开发人员以后机智一点，不要直接跟产品说这个需求做不了。而是问：&ldquo;你这个需求为用户带来了什么？给公司带来了什么？&rdquo;&nbsp;</p>
+<h1>改良版Scrum</h1>
+<p>Feature/UserStory- 用户需求(我们团队叫Feature是受历史遗留影响）</p>
+<p>Task - 开发任务</p>
+<p>Bug -&nbsp;缺陷&nbsp;</p>
+<p><img class="rich_pages img_loading" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" alt="" data-ratio="0.23805732484076433" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazFskqBSV7hNz2qdNW6tTJmxvDMA2vX05I0lUuPScINVWJDnH6dfap1A/640?wx_fmt=png" data-type="png" data-w="1256"></p>
+<p>角色</p>
+<ul class="list-paddingleft-2">
+<li>
+<p>Master&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>Product Owner</p>
+</li>
+<li>
+<p>Developer</p>
+</li>
+<li>
+<p>Tester</p>
+</li>
+</ul>
+<h2>角色职责&nbsp;</h2>
+<p><strong>Master</strong></p>
+<ul class="list-paddingleft-2">
+<li>
+<p>保证Scrum流程的正确执行，以及以下会议的纪律&nbsp;</p>
+</li>
+<li>
+<p>迭代计划会议</p>
+</li>
+<li>
+<p>每日站会</p>
+</li>
+<li>
+<p>迭代回顾会议&nbsp;</p>
+</li>
+</ul>
+<p><strong>Product Owner</strong></p>
+<ul class="list-paddingleft-2">
+<li>
+<p>清晰定义每一个UserStory，确保 DevOwn以及测试对UserStory的正确理解</p>
+</li>
+<li>
+<p>定义UserStory优先级</p>
+</li>
+<li>
+<p>同步 UserStory文档及原型的变更&nbsp;</p>
+</li>
+<li>
+<p>确保 UserStory&nbsp;得到拆分以及执行（Project Management项目管理）</p>
+</li>
+<li>
+<p>验收 UserStory&nbsp;&nbsp;</p>
+</li>
+</ul>
+<p><strong>Dev</strong></p>
+<ul class="list-paddingleft-2">
+<li>
+<p>作为Dev Owner&nbsp;正确理解需求，从技术和实现角度与PM沟通需求，协助改进需求</p>
+</li>
+<li>
+<p>将UserStory拆分为Task&nbsp;</p>
+</li>
+<li>
+<p>将开发代码的合并请求关联到Task&nbsp;</p>
+</li>
+</ul>
+<p><strong>Tester&nbsp;</strong></p>
+<ul class="list-paddingleft-2">
+<li>
+<p>正确理解需求，从测试和用户体验角度与PM沟通需求，协助改进需求&nbsp;</p>
+</li>
+<li>
+<p>测试UserStory与Bug管理&nbsp;</p>
+</li>
+<li>
+<p>验证Bug</p>
+</li>
+</ul>
+<p><strong>目标（以企业能够承担得起的成本来做可持续发展）：</strong></p>
+<ul class="list-paddingleft-2">
+<li>
+<p>用好文档：重要的文档一定要有</p>
+</li>
+<li>
+<p>高效协作 ：可以用文档沟通的方式，就不要开会&nbsp;</p>
+</li>
+<li>
+<p>实用主义：不要花太多时间写测试用例</p>
+</li>
+<li>
+<p>培养团队：&nbsp;在允许的范围内充分授权团队自己决策与执行，TL与管理者应该更多地辅导。<strong><br /></strong></p>
+
+
+</li>
+
+
+</ul>
+<p>&nbsp;</p>
+<p><strong>定义：<br /></strong></p>
+<ul class="list-paddingleft-2">
+<li>
+<p>UserStory: 只是一句话的需求描述什么角色需要什么样的功能，并不是详细的功能设计。</p>
+
+
+</li>
+<li>
+<p>架构方案设计: 指的是那些重大的框架性的调整，需要有人专门设计和开发好之后其它开发人员才可以在此基础之上开发。属于基础建设之类的，比如：开发框架，消息队列处理之类的通用组件和功能。TL要评估这个事情能不做的就留着给DevOwner去做，TL进行辅导。</p>
+
+
+</li>
+<li>
+<p>产品原型：只包含本迭代内的UserStory的详细设计</p>
+
+
+</li>
+<li>
+<p>测试用例：并不是非常详细的测试用例，更像是check list</p>
+
+
+</li>
+<li>
+<p>DevOwner: 每一个UserStory会分配一个DevOwner，通常是自己主动承担的，会比Dev多一些项目管理的职责。可以培训开发人员的项目管理能力，但是需要Leader或者Manager来给予辅导&nbsp;</p>
+
+
+</li>
+
+
+</ul>
+<p><strong>主要流程</strong></p>
+<ol class="list-paddingleft-2">
+<li>
+<p>PO 定义UserStory 放入Catelog 需求池（只有有这个想法了，或者用户提出来了就放到需求池。</p>
+
+
+</li>
+<li>
+<p>提前一个迭代对UserStory 进行排序，计划下一个迭代的UserStory。</p>
+
+
+</li>
+<li>
+<p>开发测试在做本迭代开发任务的时候&nbsp;，产品经理进行下一个迭代的产品详细设计</p>
+
+
+</li>
+<li>
+<p>产品的详细设计出来之后，直接将文档发给整个团队进行线下阅读。TL和测试分别进行技术架构方案和测试用例的编写。</p>
+
+
+</li>
+<li>
+<p>技术方案和测试用例的评审可以是通过文档线下来进行（不需要开会）</p>
+
+
+</li>
+<li>
+<p>产品原型的评审也是可以由线下进行不开会。</p>
+
+
+</li>
+<li>
+<p>组织迭代计划会议，可以提产品原型中的问题。给每个UserStory分配好DevOwner</p>
+
+
+</li>
+<li>
+<p>DevOwner线下拆分Task，TL离线异步评审</p>
+
+
+</li>
+<li>
+<p>Tester&nbsp;测试UserStory填写bug&nbsp;</p>
+
+
+</li>
+<li>
+<p>Dev&nbsp;修复 bug&nbsp;进入Bug管理流程</p>
+</li>
+</ol>
+<p>必须要开的会议只有一个迭代规划会议、每日站会、迭代回顾会议。其它的会议尽量通过文档的形式离线解决。</p>
+<p>&nbsp;</p>
+<p><img src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazXdvqOfjznVWm2ph1wMmhU4r7WRt8OrUCiar3P0goibicEYbLPZhJDAtgQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.632471008028546" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazXdvqOfjznVWm2ph1wMmhU4r7WRt8OrUCiar3P0goibicEYbLPZhJDAtgQ/640?wx_fmt=png" data-type="png" data-w="1121" data-fail="0"></p>
+<p>&nbsp;</p>
+<p><strong>与主流Scrum的主要差异&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong></p>
+<ul class="list-paddingleft-2">
+<li>
+<p>需求UserStory的StoryPoint由技术Leader一个人给出即可，主要用来大致评估成本，开发的Task是由开发人员自己按小时评估工时。(Scrum建议都按StoryPoint来估）</p>
+
+
+</li>
+<li>
+<p>给UserStory 排优先级的时候不需要团队所有人员参与，多数情况是产品经理和技术Leader决定就可以了 （Scrum建议团队所有人员在估算会议一起参加）&nbsp;</p>
+
+
+</li>
+<li>
+<p>添加了产品详细设计与测试用例设计和评审的过程（优先鼓励通过文档异步的方式来评审）</p>
+
+
+</li>
+<li>
+<p>评审/演示会议由产品经理示情况进行线下验收还是在会议上由开发自己来演示&nbsp;</p>
+
+
+</li>
+<li>
+<p>用gitlab issue来做可视化管理&nbsp;</p>
+
+
+</li>
+<li>
+<p>单独对Bug管理的流程进行了补充定义&nbsp;</p>
+</li>
+</ul>
+<h1>可视化管理</h1>
+<p>敏捷开发中非常强调公开、透明、直接有效的沟通，这也是&ldquo;白板&rdquo;在敏捷开发中如此重要的原因之一。通过&ldquo;白板&rdquo;让所有人直观的看到所有任务的状态、问题、以及任务之间的流动 。当然用白板和便利贴来管理任务会更有趣，但不是每个团队都能玩好。工具是给人用的，只要抓住背后的核心诉求，大多数的工具都能达到效果。</p>
+<p>我之前用的是Teambition来做的可视化管理，现在的公司使用Gitlab Issue功能（它跟开发的代码评审结合的更紧密）所以我利用issue管理的功能和它的Board，Milesontes和 Labels功能结合起来就可以很好的对UserStory，Task和Bug来进行管理 。</p>
+<p>以下我们创建UserStory，Task，Bug在Gitlab里面都是issue，只是我们打上了不同的标签。&nbsp;</p>
+<p><strong>需求池</strong></p>
+<p>单独新建一个需求池的Board把所有包含Feature(UserStory) 的标签列出来。这里Doing就当前迭代的需求，ToDo是下个迭代的需求。Open是所有待完成的需求。&nbsp;</p>
+<p><img class="rich_pages img_loading" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==" alt="" data-ratio="0.52731737262124" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazDMpXTqiceRZppHVPaZrTofMsCM2I7ILib0OmSRhVScDd9GfXKKHIyuCw/640?wx_fmt=png" data-type="png" data-w="1629"></p>
+<p><strong>UserStory</strong></p>
+<p>需求由产品经理创建之后将相关的一些文档和原型地址都全部汇总到描述中，如果需求有变更需要同步更新。</p>
+<ul class="list-paddingleft-2">
+<li>
+<p>在迭代会议的时候指定开发负责人DevOwner</p>
+
+
+</li>
+<li>
+<p>由DevOwner对需求进行进一步的详细分析之后拆分任务并创建Related Issue，并指派具体的开发人员</p>
+
+
+</li>
+
+
+</ul>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazFuWmjicdbiaZwoDVA7qBOxRPZHhgbhiccoEgtHnDQmvYxIgicY2UPMcOOg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.6566005176876618" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazFuWmjicdbiaZwoDVA7qBOxRPZHhgbhiccoEgtHnDQmvYxIgicY2UPMcOOg/640?wx_fmt=png" data-type="png" data-w="1159" data-fail="0"></p>
+<p>&nbsp;</p>
+<p><strong>Task</strong></p>
+<p>开发的任务中关联了对应的UserStory和相关的代码commit、merge request等。通过开发任务就可以直接找到与这个任务相关的代码。</p>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazoYeayfOgdRcT2c3nN5l2iaG50TyPmRHLzbI7PevOJ28Mm8D4UhNuUMA/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.6503014642549526" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazoYeayfOgdRcT2c3nN5l2iaG50TyPmRHLzbI7PevOJ28Mm8D4UhNuUMA/640?wx_fmt=png" data-type="png" data-w="1161" data-fail="0"></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong>燃尽图</strong></p>
+<p>Scrum在给所有的task打上StoryPoint之后，根据每天剩余（未完成任务）StoryPoint的总和绘制图表就得到了燃尽图。</p>
+<p>理想的燃尽图应该是像下图中的虚线那样规律性的下降直到0（所有任务开发完成），通过这个图就可以看到在这个迭代内任务被关闭的情况，用来分析开发团队的实际产出。</p>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazKusbny5gWmMXoesVeICrGHINU6f7B4EtfS5hajqZUXicugeXll1t25A/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.8027057497181511" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazKusbny5gWmMXoesVeICrGHINU6f7B4EtfS5hajqZUXicugeXll1t25A/640?wx_fmt=png" data-type="png" data-w="887" data-fail="0"></p>
+<h1>Bug缺陷管理<strong>&nbsp;</strong></h1>
+<p>传统的开发-测试流程造成了很多问题：开发写完代码之后对自己的任务甚至不做基本的检测就丢给测试。测试也没有精力去做一些自动化的工作。中间测试-开发还常常出现推诿，反复的情况。&nbsp;开发也没有机会去加强自己的测试sense和技能。最后只能造成双输的局面。</p>
+<p><strong>理想丰满，现实骨感</strong></p>
+<p>Scrum以及敏捷开发提出来依靠测试驱动，自动化单元测试、集成测试来达到内建质量的提倡当然是非常好的。但是国内大多数中小团队都达到不这样的条件这样做。我们只能退而求其次，在满足用户要求的产品质量的基础之后，逐渐培养开发人员的测试能力以及测试人员自动化脚本能力。</p>
+<p><strong>建立和持续改进机制</strong><strong><br /></strong></p>
+<p>我们现在10个人的团队中有一个测试人员来建立和巩固基础测试流程、维护通用测试用例、 对开发人员对于测试技能培训、&nbsp;以及进行迭代bug回顾和观测来达到持续改进的目的。</p>
+<p><strong>基础测试流程<br /></strong></p>
+<p><strong>&nbsp;</strong></p>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazhaAFBSQLTZUJOrG8m5wwv75f8Fnm5whSp0kRJSK3lAbj3GndVia319g/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.5083713850837138" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazhaAFBSQLTZUJOrG8m5wwv75f8Fnm5whSp0kRJSK3lAbj3GndVia319g/640?wx_fmt=png" data-type="png" data-w="657" data-fail="0"></p>
+<p>基础测试流程与传统的测试流程大致相同，这里主要的变化是将测试用例写的足够简单以便于让开发理解和快速校验。我们在开发提交功能给测试之前需要自己先走一遍测试之前提供的该功能的用例确保每一项是通过的。&nbsp;<strong>保证你写的代码能运行正常是每一个负责任程序员的基本素质。&nbsp;</strong></p>
+<p>测试人员从一开始就深度参与到这个迭代开发的每一个环节，加上对于开发任务的可视化管理。测试在打开bug的时候直接assign给对应的开发人员。不需要leader再额外的approval。</p>
+<p><strong>标签管理</strong></p>
+<p>以下是在gitlab labels中额外添加的一些标签用来在后面迭代回顾的时候更好地统计bug进行质量改进分析。</p>
+<ul class="list-paddingleft-2">
+<li>
+<p>Priority 优先级&nbsp;</p>
+
+
+</li>
+
+
+</ul>
+<ul class="list-paddingleft-2">
+<ul class="list-paddingleft-2">
+<li>
+<p>High</p>
+
+
+</li>
+<li>
+<p>Medium</p>
+
+
+</li>
+<li>
+<p>Low</p>
+
+
+</li>
+
+
+</ul>
+
+
+</ul>
+<ul class="list-paddingleft-2">
+<li>
+<p>Severity&nbsp; 严重级别&nbsp;</p>
+
+
+</li>
+
+
+</ul>
+<ul class="list-paddingleft-2">
+<ul class="list-paddingleft-2">
+<li>
+<p>Critical&nbsp;致命</p>
+
+
+</li>
+<li>
+<p>Major&nbsp;高</p>
+
+
+</li>
+<li>
+<p>Minor&nbsp;中&nbsp;</p>
+
+
+</li>
+<li>
+<p>Low&nbsp;低</p>
+
+
+</li>
+
+
+</ul>
+
+
+</ul>
+<ul class="list-paddingleft-2">
+<li>
+<p>Resolutions 关闭原因</p>
+
+
+</li>
+
+
+</ul>
+<ul class="list-paddingleft-2">
+<ul class="list-paddingleft-2">
+<li>
+<p>Fixed&nbsp;最后确认是bug并且修复了</p>
+
+
+</li>
+<li>
+<p>Deferred&nbsp;是bug，但是延期再修复&nbsp;</p>
+
+
+</li>
+<li>
+<p>Duuplicate&nbsp;重复了</p>
+
+
+</li>
+<li>
+<p>As Designed&nbsp;设计就是这样，不是我的锅&nbsp;</p>
+
+
+</li>
+<li>
+<p>Cannot Reproduce 不能重现&nbsp;</p>
+</li>
+</ul>
+</ul>
+<p>这些标签可以可通过gitlab 的scoped标签（父标签::子标签）的形式来管理，比如Priority::High, Prioirty::Medium, Priority::Low。</p>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazFSVIicQOS607thcDT9V2uaQmfzJATJJzB9ECicw8s4kTfkOuibQPjfiaUA/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.6935483870967742" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazFSVIicQOS607thcDT9V2uaQmfzJATJJzB9ECicw8s4kTfkOuibQPjfiaUA/640?wx_fmt=png" data-type="png" data-w="1054" data-fail="0"></p>
+<p><strong>测试用例</strong></p>
+<p>我们的测试用例与标准的测试用例有很大的区别，基本上我们是不写测试步骤的。只写简单的用例描述和预期结果，当然这个预期结果会尽量包含所有的分支。开发人员需要在提交测试之前自己确保这些功能都是正常的，否则我们会定义为严重的不负责任。</p>
+<p>&nbsp;</p>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazm1p8YINCXqufuhBnPicSG9W9uiblubVlxSZOYu373Qz5Z4gqMmew8Neg/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.3456577815993121" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazm1p8YINCXqufuhBnPicSG9W9uiblubVlxSZOYu373Qz5Z4gqMmew8Neg/640?wx_fmt=png" data-type="png" data-w="1163" data-fail="0"></p>
+<p>&nbsp;</p>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazc8U2JmlXFSGAyk0SCBuOuDgJdH4VkxaibK2icg3pvMicWgWfgPTJmIXLw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.7025089605734767" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazc8U2JmlXFSGAyk0SCBuOuDgJdH4VkxaibK2icg3pvMicWgWfgPTJmIXLw/640?wx_fmt=png" data-type="png" data-w="1116" data-fail="0"></p>
+<p>&nbsp;</p>
+<h2>Bug回顾&nbsp;</h2>
+<p>没有回顾就没有持续的改进 。在每一个迭代结束之后，我们都要将这个迭代产生的bug进行统计汇总、团队一起分析，并与之前的迭代bug统计进行对比。gitlab没有比较方便的统计图表功能，所以我们会把有bugs标签的issue导出到excel再进行分析。</p>
+<p><strong>按严重级别进行汇总</strong></p>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazulzNEW1aaLweoBWtJtIZ5Ge3L1Ojmu4o9RGuEDOVcVFjric8kUF8IsA/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.24131944444444445" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazulzNEW1aaLweoBWtJtIZ5Ge3L1Ojmu4o9RGuEDOVcVFjric8kUF8IsA/640?wx_fmt=png" data-type="png" data-w="576" data-fail="0"></p>
+<p><strong>按人员进行汇总</strong></p>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazOC14wsgozQLlnfolHUbnKKwsiaK6icBuXnlCYvv7r8765QvFNTMp3HNw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.33156028368794327" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazOC14wsgozQLlnfolHUbnKKwsiaK6icBuXnlCYvv7r8765QvFNTMp3HNw/640?wx_fmt=png" data-type="png" data-w="564" data-fail="0"></p>
+<p><strong>按关闭原因进行汇总</strong></p>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiaz0Q1ljicEia2rkazgQp7Jic5htrFGobkjuptxJUTibsgtXuGpQWcGTY2jnw/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.18166383701188454" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiaz0Q1ljicEia2rkazgQp7Jic5htrFGobkjuptxJUTibsgtXuGpQWcGTY2jnw/640?wx_fmt=png" data-type="png" data-w="589" data-fail="0"></p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>常见问题总结</strong></p>
+<p><img class="rich_pages " src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazYiagyWMYUU15lWgibutNRbNrrmqQUB0ibqEXaWpmtok0Sib34b4PnfiaZxQ/640?wx_fmt=png&amp;tp=webp&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" data-ratio="0.7948717948717948" data-s="300,640" data-src="https://mmbiz.qpic.cn/mmbiz_png/sL0ovJJLw671eovFiaywhcjeRRIR4ZOiazYiagyWMYUU15lWgibutNRbNrrmqQUB0ibqEXaWpmtok0Sib34b4PnfiaZxQ/640?wx_fmt=png" data-type="png" data-w="624" data-fail="0"></p>
+<p>通过加强开发自测试和建立持续改进机制我们逐渐让测试人员有一些时间从质量管理更宏观的层面去做改进，也让测试有一些时间去建立自动化体系。</p>
+<h1>结语</h1>
+<p>流程只是整个产品开发管理中很小的一部分。流程为人服务，而不应该是徒添负担。&nbsp;除了流程，我们还需要建立完善的团队奖惩机制、员工培训和晋升机制，整个团队才会有活力。由于篇符有限，可能有些地方会有遗漏，还请各位海涵！</p>
+</div>
+<div id="MySignature"></div>
+<div class="clear"></div>
+<div id="blog_post_info_block">
+    <div id="blog_post_info"></div>
+    <div class="clear"></div>
+    <div id="post_next_prev"></div>
+</div>
+            </div>
+            <div class="postDesc">posted @ 
+<span id="post-date">2020-02-11 10:25</span>&nbsp;
+<a href="https://www.cnblogs.com/jesse2013/">腾飞（Jesse)</a>&nbsp;
+阅读(<span id="post_view_count">...</span>)&nbsp;
+评论(<span id="post_comment_count">...</span>)&nbsp;
+<a href="https://i.cnblogs.com/EditPosts.aspx?postid=12289020" rel="nofollow">编辑</a>&nbsp;
+<a href="javascript:void(0)" onclick="AddToWz(12289020);return false;">收藏</a></div>
+        </div>
+	    
+	    
+    </div><!--end: topics 文章、评论容器-->
+</div>
+<script src="https://common.cnblogs.com/highlight/9.12.0/highlight.min.js"></script>
+<script>markdown_highlight();</script>
+<script>
+    var allowComments = true, cb_blogId = 159331, cb_blogApp = 'jesse2013', cb_blogUserGuid = 'dfb583e1-aefc-e211-8d02-90b11c0b17d6';
+    var cb_entryId = 12289020, cb_entryCreatedDate = '2020-02-11 10:25', cb_postType = 1; 
+    loadViewCount(cb_entryId);
+</script><a name="!comments"></a>
+<div id="blog-comments-placeholder"></div>
+<script>
+    var commentManager = new blogCommentManager();
+    commentManager.renderComments(0);
+</script>
+
+<div id="comment_form" class="commentform">
+    <a name="commentform"></a>
+    <div id="divCommentShow"></div>
+    <div id="comment_nav"><span id="span_refresh_tips"></span><a href="javascript:void(0);" onclick="return RefreshCommentList();" id="lnk_RefreshComments" runat="server" clientidmode="Static">刷新评论</a><a href="#" onclick="return RefreshPage();">刷新页面</a><a href="#top">返回顶部</a></div>
+    <div id="comment_form_container"></div>
+    <div class="ad_text_commentbox" id="ad_text_under_commentbox"></div>
+    <div id="ad_t2"></div>
+    <div id="opt_under_post"></div>
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+    </script>
+    <script>
+        googletag.cmd.push(function () {
+            googletag.defineSlot("/1090369/C1", [300, 250], "div-gpt-ad-1546353474406-0").addService(googletag.pubads());
+            googletag.defineSlot("/1090369/C2", [468, 60], "div-gpt-ad-1539008685004-0").addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+    <div id="cnblogs_c1" class="c_ad_block">
+        <div id="div-gpt-ad-1546353474406-0" style="height:250px; width:300px;"></div>
+    </div>
+    <div id="under_post_news"></div>
+    <div id="cnblogs_c2" class="c_ad_block">
+        <div id="div-gpt-ad-1539008685004-0" style="height:60px; width:468px;">
+            <script>
+                if (new Date() >= new Date(2018, 9, 13)) {
+                    googletag.cmd.push(function () { googletag.display("div-gpt-ad-1539008685004-0"); });
+                }
+            </script>
+        </div>
+    </div>
+    <div id="under_post_kb"></div>
+    <div id="HistoryToday" class="c_ad_block"></div>
+    <script type="text/javascript">
+        fixPostBody();
+        deliverBigBanner();
+setTimeout(function() { incrementViewCount(cb_entryId); }, 50);        deliverAdT2();
+        deliverAdC1();
+        deliverAdC2();
+        loadNewsAndKb();
+        loadBlogSignature();
+LoadPostCategoriesTags(cb_blogId, cb_entryId);        LoadPostInfoBlock(cb_blogId, cb_entryId, cb_blogApp, cb_blogUserGuid);
+        GetPrevNextPost(cb_entryId, cb_blogId, cb_entryCreatedDate, cb_postType);
+        loadOptUnderPost();
+        GetHistoryToday(cb_blogId, cb_blogApp, cb_entryCreatedDate);
+    </script>
+</div>
+	</div><!--end: forFlow -->
+	</div><!--end: mainContent 主体内容容器-->
+
+	<div id="sideBar">
+		<div id="sideBarMain">
+			
+<div id="sidebar_news" class="newsItem">
+            <script>loadBlogNews();</script>
+</div>
+
+			<div id="blog-calendar" style="display:none"></div><script>loadBlogDefaultCalendar();</script>
+			
+			<div id="leftcontentcontainer">
+				<div id="blog-sidecolumn"></div>
+                    <script>loadBlogSideColumn();</script>
+			</div>
+			
+		</div><!--end: sideBarMain -->
+	</div><!--end: sideBar 侧边栏容器 -->
+	<div class="clear"></div>
+	</div><!--end: main -->
+	<div class="clear"></div>
+	<div id="footer">
+		<!--done-->
+Copyright &copy; 2020 腾飞（Jesse)
+<br /><span id="poweredby">Powered by .NET Core on Kubernetes</span>
+
+
+
+	</div><!--end: footer -->
+</div><!--end: home 自定义的最大容器 -->
+
+
+    
+</body>
+</html>
